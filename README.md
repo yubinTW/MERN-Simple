@@ -4,7 +4,7 @@ slide: [https://yubintw.github.io/MERN-basic-practice/export/index#/](https://yu
 
 ## Get Start
 
-## Depenency
+## Dependency
 
 - node
 - docker (for run a mongo container)
